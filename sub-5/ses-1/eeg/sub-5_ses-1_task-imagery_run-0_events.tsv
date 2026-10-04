@@ -1,0 +1,400 @@
+onset	duration	trial_type	value	sample
+1.5	3.996	left_hand	2	375
+5.5	0.0	EDGE boundary	1	1375
+7.0	3.996	right_hand	3	1750
+11.0	0.0	EDGE boundary	1	2750
+12.5	3.996	right_hand	3	3125
+16.5	0.0	EDGE boundary	1	4125
+18.0	3.996	right_hand	3	4500
+22.0	0.0	EDGE boundary	1	5500
+23.5	3.996	right_hand	3	5875
+27.5	0.0	EDGE boundary	1	6875
+29.0	3.996	right_hand	3	7250
+33.0	0.0	EDGE boundary	1	8250
+34.5	3.996	right_hand	3	8625
+38.5	0.0	EDGE boundary	1	9625
+40.0	3.996	right_hand	3	10000
+44.0	0.0	EDGE boundary	1	11000
+45.5	3.996	right_hand	3	11375
+49.5	0.0	EDGE boundary	1	12375
+51.0	3.996	right_hand	3	12750
+55.0	0.0	EDGE boundary	1	13750
+56.5	3.996	right_hand	3	14125
+60.5	0.0	EDGE boundary	1	15125
+62.0	3.996	right_hand	3	15500
+66.0	0.0	EDGE boundary	1	16500
+67.5	3.996	left_hand	2	16875
+71.5	0.0	EDGE boundary	1	17875
+73.0	3.996	right_hand	3	18250
+77.0	0.0	EDGE boundary	1	19250
+78.5	3.996	left_hand	2	19625
+82.5	0.0	EDGE boundary	1	20625
+84.0	3.996	right_hand	3	21000
+88.0	0.0	EDGE boundary	1	22000
+89.5	3.996	left_hand	2	22375
+93.5	0.0	EDGE boundary	1	23375
+95.0	3.996	right_hand	3	23750
+99.0	0.0	EDGE boundary	1	24750
+100.5	3.996	left_hand	2	25125
+104.5	0.0	EDGE boundary	1	26125
+106.0	3.996	left_hand	2	26500
+110.0	0.0	EDGE boundary	1	27500
+111.5	3.996	right_hand	3	27875
+115.5	0.0	EDGE boundary	1	28875
+117.0	3.996	right_hand	3	29250
+121.0	0.0	EDGE boundary	1	30250
+122.5	3.996	left_hand	2	30625
+126.5	0.0	EDGE boundary	1	31625
+128.0	3.996	right_hand	3	32000
+132.0	0.0	EDGE boundary	1	33000
+133.5	3.996	left_hand	2	33375
+137.5	0.0	EDGE boundary	1	34375
+139.0	3.996	left_hand	2	34750
+143.0	0.0	EDGE boundary	1	35750
+144.5	3.996	right_hand	3	36125
+148.5	0.0	EDGE boundary	1	37125
+150.0	3.996	left_hand	2	37500
+154.0	0.0	EDGE boundary	1	38500
+155.5	3.996	right_hand	3	38875
+159.5	0.0	EDGE boundary	1	39875
+161.0	3.996	right_hand	3	40250
+165.0	0.0	EDGE boundary	1	41250
+166.5	3.996	left_hand	2	41625
+170.5	0.0	EDGE boundary	1	42625
+172.0	3.996	left_hand	2	43000
+176.0	0.0	EDGE boundary	1	44000
+177.5	3.996	right_hand	3	44375
+181.5	0.0	EDGE boundary	1	45375
+183.0	3.996	right_hand	3	45750
+187.0	0.0	EDGE boundary	1	46750
+188.5	3.996	right_hand	3	47125
+192.5	0.0	EDGE boundary	1	48125
+194.0	3.996	right_hand	3	48500
+198.0	0.0	EDGE boundary	1	49500
+199.5	3.996	right_hand	3	49875
+203.5	0.0	EDGE boundary	1	50875
+205.0	3.996	left_hand	2	51250
+209.0	0.0	EDGE boundary	1	52250
+210.5	3.996	left_hand	2	52625
+214.5	0.0	EDGE boundary	1	53625
+216.0	3.996	right_hand	3	54000
+220.0	0.0	EDGE boundary	1	55000
+221.5	3.996	right_hand	3	55375
+225.5	0.0	EDGE boundary	1	56375
+227.0	3.996	right_hand	3	56750
+231.0	0.0	EDGE boundary	1	57750
+232.5	3.996	right_hand	3	58125
+236.5	0.0	EDGE boundary	1	59125
+238.0	3.996	right_hand	3	59500
+242.0	0.0	EDGE boundary	1	60500
+243.5	3.996	right_hand	3	60875
+247.5	0.0	EDGE boundary	1	61875
+249.0	3.996	left_hand	2	62250
+253.0	0.0	EDGE boundary	1	63250
+254.5	3.996	right_hand	3	63625
+258.5	0.0	EDGE boundary	1	64625
+260.0	3.996	left_hand	2	65000
+264.0	0.0	EDGE boundary	1	66000
+265.5	3.996	right_hand	3	66375
+269.5	0.0	EDGE boundary	1	67375
+271.0	3.996	right_hand	3	67750
+275.0	0.0	EDGE boundary	1	68750
+276.5	3.996	left_hand	2	69125
+280.5	0.0	EDGE boundary	1	70125
+282.0	3.996	left_hand	2	70500
+286.0	0.0	EDGE boundary	1	71500
+287.5	3.996	right_hand	3	71875
+291.5	0.0	EDGE boundary	1	72875
+293.0	3.996	left_hand	2	73250
+297.0	0.0	EDGE boundary	1	74250
+298.5	3.996	right_hand	3	74625
+302.5	0.0	EDGE boundary	1	75625
+304.0	3.996	right_hand	3	76000
+308.0	0.0	EDGE boundary	1	77000
+309.5	3.996	right_hand	3	77375
+313.5	0.0	EDGE boundary	1	78375
+315.0	3.996	right_hand	3	78750
+319.0	0.0	EDGE boundary	1	79750
+320.5	3.996	right_hand	3	80125
+324.5	0.0	EDGE boundary	1	81125
+326.0	3.996	right_hand	3	81500
+330.0	0.0	EDGE boundary	1	82500
+331.5	3.996	left_hand	2	82875
+335.5	0.0	EDGE boundary	1	83875
+337.0	3.996	right_hand	3	84250
+341.0	0.0	EDGE boundary	1	85250
+342.5	3.996	left_hand	2	85625
+346.5	0.0	EDGE boundary	1	86625
+348.0	3.996	right_hand	3	87000
+352.0	0.0	EDGE boundary	1	88000
+353.5	3.996	right_hand	3	88375
+357.5	0.0	EDGE boundary	1	89375
+359.0	3.996	left_hand	2	89750
+363.0	0.0	EDGE boundary	1	90750
+364.5	3.996	right_hand	3	91125
+368.5	0.0	EDGE boundary	1	92125
+370.0	3.996	right_hand	3	92500
+374.0	0.0	EDGE boundary	1	93500
+375.5	3.996	left_hand	2	93875
+379.5	0.0	EDGE boundary	1	94875
+381.0	3.996	right_hand	3	95250
+385.0	0.0	EDGE boundary	1	96250
+386.5	3.996	right_hand	3	96625
+390.5	0.0	EDGE boundary	1	97625
+392.0	3.996	right_hand	3	98000
+396.0	0.0	EDGE boundary	1	99000
+397.5	3.996	left_hand	2	99375
+401.5	0.0	EDGE boundary	1	100375
+403.0	3.996	right_hand	3	100750
+407.0	0.0	EDGE boundary	1	101750
+408.5	3.996	left_hand	2	102125
+412.5	0.0	EDGE boundary	1	103125
+414.0	3.996	right_hand	3	103500
+418.0	0.0	EDGE boundary	1	104500
+419.5	3.996	right_hand	3	104875
+423.5	0.0	EDGE boundary	1	105875
+425.0	3.996	left_hand	2	106250
+429.0	0.0	EDGE boundary	1	107250
+430.5	3.996	right_hand	3	107625
+434.5	0.0	EDGE boundary	1	108625
+436.0	3.996	left_hand	2	109000
+440.0	0.0	EDGE boundary	1	110000
+441.5	3.996	right_hand	3	110375
+445.5	0.0	EDGE boundary	1	111375
+447.0	3.996	right_hand	3	111750
+451.0	0.0	EDGE boundary	1	112750
+452.5	3.996	right_hand	3	113125
+456.5	0.0	EDGE boundary	1	114125
+458.0	3.996	right_hand	3	114500
+462.0	0.0	EDGE boundary	1	115500
+463.5	3.996	left_hand	2	115875
+467.5	0.0	EDGE boundary	1	116875
+469.0	3.996	right_hand	3	117250
+473.0	0.0	EDGE boundary	1	118250
+474.5	3.996	left_hand	2	118625
+478.5	0.0	EDGE boundary	1	119625
+480.0	3.996	right_hand	3	120000
+484.0	0.0	EDGE boundary	1	121000
+485.5	3.996	right_hand	3	121375
+489.5	0.0	EDGE boundary	1	122375
+491.0	3.996	left_hand	2	122750
+495.0	0.0	EDGE boundary	1	123750
+496.5	3.996	right_hand	3	124125
+500.5	0.0	EDGE boundary	1	125125
+502.0	3.996	right_hand	3	125500
+506.0	0.0	EDGE boundary	1	126500
+507.5	3.996	left_hand	2	126875
+511.5	0.0	EDGE boundary	1	127875
+513.0	3.996	right_hand	3	128250
+517.0	0.0	EDGE boundary	1	129250
+518.5	3.996	left_hand	2	129625
+522.5	0.0	EDGE boundary	1	130625
+524.0	3.996	right_hand	3	131000
+528.0	0.0	EDGE boundary	1	132000
+529.5	3.996	left_hand	2	132375
+533.5	0.0	EDGE boundary	1	133375
+535.0	3.996	left_hand	2	133750
+539.0	0.0	EDGE boundary	1	134750
+540.5	3.996	right_hand	3	135125
+544.5	0.0	EDGE boundary	1	136125
+546.0	3.996	left_hand	2	136500
+550.0	0.0	EDGE boundary	1	137500
+551.5	3.996	right_hand	3	137875
+555.5	0.0	EDGE boundary	1	138875
+557.0	3.996	left_hand	2	139250
+561.0	0.0	EDGE boundary	1	140250
+562.5	3.996	left_hand	2	140625
+566.5	0.0	EDGE boundary	1	141625
+568.0	3.996	right_hand	3	142000
+572.0	0.0	EDGE boundary	1	143000
+573.5	3.996	right_hand	3	143375
+577.5	0.0	EDGE boundary	1	144375
+579.0	3.996	right_hand	3	144750
+583.0	0.0	EDGE boundary	1	145750
+584.5	3.996	left_hand	2	146125
+588.5	0.0	EDGE boundary	1	147125
+590.0	3.996	right_hand	3	147500
+594.0	0.0	EDGE boundary	1	148500
+595.5	3.996	left_hand	2	148875
+599.5	0.0	EDGE boundary	1	149875
+601.0	3.996	right_hand	3	150250
+605.0	0.0	EDGE boundary	1	151250
+606.5	3.996	left_hand	2	151625
+610.5	0.0	EDGE boundary	1	152625
+612.0	3.996	right_hand	3	153000
+616.0	0.0	EDGE boundary	1	154000
+617.5	3.996	right_hand	3	154375
+621.5	0.0	EDGE boundary	1	155375
+623.0	3.996	left_hand	2	155750
+627.0	0.0	EDGE boundary	1	156750
+628.5	3.996	right_hand	3	157125
+632.5	0.0	EDGE boundary	1	158125
+634.0	3.996	right_hand	3	158500
+638.0	0.0	EDGE boundary	1	159500
+639.5	3.996	right_hand	3	159875
+643.5	0.0	EDGE boundary	1	160875
+645.0	3.996	right_hand	3	161250
+649.0	0.0	EDGE boundary	1	162250
+650.5	3.996	left_hand	2	162625
+654.5	0.0	EDGE boundary	1	163625
+656.0	3.996	right_hand	3	164000
+660.0	0.0	EDGE boundary	1	165000
+661.5	3.996	right_hand	3	165375
+665.5	0.0	EDGE boundary	1	166375
+667.0	3.996	right_hand	3	166750
+671.0	0.0	EDGE boundary	1	167750
+672.5	3.996	left_hand	2	168125
+676.5	0.0	EDGE boundary	1	169125
+678.0	3.996	right_hand	3	169500
+682.0	0.0	EDGE boundary	1	170500
+683.5	3.996	right_hand	3	170875
+687.5	0.0	EDGE boundary	1	171875
+689.0	3.996	right_hand	3	172250
+693.0	0.0	EDGE boundary	1	173250
+694.5	3.996	right_hand	3	173625
+698.5	0.0	EDGE boundary	1	174625
+700.0	3.996	right_hand	3	175000
+704.0	0.0	EDGE boundary	1	176000
+705.5	3.996	right_hand	3	176375
+709.5	0.0	EDGE boundary	1	177375
+711.0	3.996	right_hand	3	177750
+715.0	0.0	EDGE boundary	1	178750
+716.5	3.996	right_hand	3	179125
+720.5	0.0	EDGE boundary	1	180125
+722.0	3.996	left_hand	2	180500
+726.0	0.0	EDGE boundary	1	181500
+727.5	3.996	right_hand	3	181875
+731.5	0.0	EDGE boundary	1	182875
+733.0	3.996	left_hand	2	183250
+737.0	0.0	EDGE boundary	1	184250
+738.5	3.996	right_hand	3	184625
+742.5	0.0	EDGE boundary	1	185625
+744.0	3.996	right_hand	3	186000
+748.0	0.0	EDGE boundary	1	187000
+749.5	3.996	right_hand	3	187375
+753.5	0.0	EDGE boundary	1	188375
+755.0	3.996	right_hand	3	188750
+759.0	0.0	EDGE boundary	1	189750
+760.5	3.996	right_hand	3	190125
+764.5	0.0	EDGE boundary	1	191125
+766.0	3.996	right_hand	3	191500
+770.0	0.0	EDGE boundary	1	192500
+771.5	3.996	left_hand	2	192875
+775.5	0.0	EDGE boundary	1	193875
+777.0	3.996	right_hand	3	194250
+781.0	0.0	EDGE boundary	1	195250
+782.5	3.996	left_hand	2	195625
+786.5	0.0	EDGE boundary	1	196625
+788.0	3.996	right_hand	3	197000
+792.0	0.0	EDGE boundary	1	198000
+793.5	3.996	right_hand	3	198375
+797.5	0.0	EDGE boundary	1	199375
+799.0	3.996	right_hand	3	199750
+803.0	0.0	EDGE boundary	1	200750
+804.5	3.996	right_hand	3	201125
+808.5	0.0	EDGE boundary	1	202125
+810.0	3.996	left_hand	2	202500
+814.0	0.0	EDGE boundary	1	203500
+815.5	3.996	right_hand	3	203875
+819.5	0.0	EDGE boundary	1	204875
+821.0	3.996	left_hand	2	205250
+825.0	0.0	EDGE boundary	1	206250
+826.5	3.996	right_hand	3	206625
+830.5	0.0	EDGE boundary	1	207625
+832.0	3.996	right_hand	3	208000
+836.0	0.0	EDGE boundary	1	209000
+837.5	3.996	left_hand	2	209375
+841.5	0.0	EDGE boundary	1	210375
+843.0	3.996	right_hand	3	210750
+847.0	0.0	EDGE boundary	1	211750
+848.5	3.996	right_hand	3	212125
+852.5	0.0	EDGE boundary	1	213125
+854.0	3.996	left_hand	2	213500
+858.0	0.0	EDGE boundary	1	214500
+859.5	3.996	right_hand	3	214875
+863.5	0.0	EDGE boundary	1	215875
+865.0	3.996	right_hand	3	216250
+869.0	0.0	EDGE boundary	1	217250
+870.5	3.996	right_hand	3	217625
+874.5	0.0	EDGE boundary	1	218625
+876.0	3.996	right_hand	3	219000
+880.0	0.0	EDGE boundary	1	220000
+881.5	3.996	right_hand	3	220375
+885.5	0.0	EDGE boundary	1	221375
+887.0	3.996	left_hand	2	221750
+891.0	0.0	EDGE boundary	1	222750
+892.5	3.996	right_hand	3	223125
+896.5	0.0	EDGE boundary	1	224125
+898.0	3.996	right_hand	3	224500
+902.0	0.0	EDGE boundary	1	225500
+903.5	3.996	left_hand	2	225875
+907.5	0.0	EDGE boundary	1	226875
+909.0	3.996	right_hand	3	227250
+913.0	0.0	EDGE boundary	1	228250
+914.5	3.996	left_hand	2	228625
+918.5	0.0	EDGE boundary	1	229625
+920.0	3.996	right_hand	3	230000
+924.0	0.0	EDGE boundary	1	231000
+925.5	3.996	left_hand	2	231375
+929.5	0.0	EDGE boundary	1	232375
+931.0	3.996	right_hand	3	232750
+935.0	0.0	EDGE boundary	1	233750
+936.5	3.996	right_hand	3	234125
+940.5	0.0	EDGE boundary	1	235125
+942.0	3.996	left_hand	2	235500
+946.0	0.0	EDGE boundary	1	236500
+947.5	3.996	right_hand	3	236875
+951.5	0.0	EDGE boundary	1	237875
+953.0	3.996	right_hand	3	238250
+957.0	0.0	EDGE boundary	1	239250
+958.5	3.996	right_hand	3	239625
+962.5	0.0	EDGE boundary	1	240625
+964.0	3.996	right_hand	3	241000
+968.0	0.0	EDGE boundary	1	242000
+969.5	3.996	left_hand	2	242375
+973.5	0.0	EDGE boundary	1	243375
+975.0	3.996	right_hand	3	243750
+979.0	0.0	EDGE boundary	1	244750
+980.5	3.996	right_hand	3	245125
+984.5	0.0	EDGE boundary	1	246125
+986.0	3.996	left_hand	2	246500
+990.0	0.0	EDGE boundary	1	247500
+991.5	3.996	right_hand	3	247875
+995.5	0.0	EDGE boundary	1	248875
+997.0	3.996	right_hand	3	249250
+1001.0	0.0	EDGE boundary	1	250250
+1002.5	3.996	right_hand	3	250625
+1006.5	0.0	EDGE boundary	1	251625
+1008.0	3.996	left_hand	2	252000
+1012.0	0.0	EDGE boundary	1	253000
+1013.5	3.996	right_hand	3	253375
+1017.5	0.0	EDGE boundary	1	254375
+1019.0	3.996	left_hand	2	254750
+1023.0	0.0	EDGE boundary	1	255750
+1024.5	3.996	right_hand	3	256125
+1028.5	0.0	EDGE boundary	1	257125
+1030.0	3.996	right_hand	3	257500
+1034.0	0.0	EDGE boundary	1	258500
+1035.5	3.996	right_hand	3	258875
+1039.5	0.0	EDGE boundary	1	259875
+1041.0	3.996	left_hand	2	260250
+1045.0	0.0	EDGE boundary	1	261250
+1046.5	3.996	right_hand	3	261625
+1050.5	0.0	EDGE boundary	1	262625
+1052.0	3.996	right_hand	3	263000
+1056.0	0.0	EDGE boundary	1	264000
+1057.5	3.996	right_hand	3	264375
+1061.5	0.0	EDGE boundary	1	265375
+1063.0	3.996	left_hand	2	265750
+1067.0	0.0	EDGE boundary	1	266750
+1068.5	3.996	right_hand	3	267125
+1072.5	0.0	EDGE boundary	1	268125
+1074.0	3.996	right_hand	3	268500
+1078.0	0.0	EDGE boundary	1	269500
+1079.5	3.996	right_hand	3	269875
+1083.5	0.0	EDGE boundary	1	270875
+1085.0	3.996	right_hand	3	271250
+1089.0	0.0	EDGE boundary	1	272250
+1090.5	3.996	right_hand	3	272625
+1094.5	0.0	EDGE boundary	1	273625
+1096.0	3.996	right_hand	3	274000
