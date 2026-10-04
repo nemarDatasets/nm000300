@@ -1,0 +1,81 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Lincong Pan": {
+      "orcid": "0009-0006-0584-9355"
+    }
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.7910/DVN/GH74ZG",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000300",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000300",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.1088/1741-2552/ad0a01",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    }
+  ],
+  "title": "Pan2025",
+  "license": "CC0-1.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "268 MB (21 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".tsv",
+    ".yaml"
+  ],
+  "description": "A cross-session motor imagery EEG dataset from 10 healthy participants who performed cued left- versus right-hand motor imagery across two sessions. Recordings used 28 EEG channels at 250 Hz. In session 2, the test trials gave online feedback. The dataset supports research on cross-session decoding and brain-computer interface benchmarking, and is distributed in BIDS format via MOABB.",
+  "methods_description": "EEG was recorded with a Neuroscan SynAmps2 amplifier using 28 channels in a 10-10 montage at 250 Hz, with online bandpass filtering of 0.01-200 Hz and a 50 Hz notch. Each session had about 180 cued left- or right-hand motor imagery trials (4 s rest, 4 s task). In session 2, the first 30 trials were used for training and the remaining trials were used for testing with online feedback.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "motor imagery"
+    },
+    {
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+    },
+    {
+      "term": "cross-session decoding"
+    },
+    {
+      "term": "left- vs right-hand imagery"
+    }
+  ],
+  "source_hash": "6c501cccfa852dbb81417957047b3b8faaae7c42bfc734e426e4abd566708842"
+}
