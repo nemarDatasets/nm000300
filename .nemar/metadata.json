@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Pan2025: Cross-session motor imagery dataset from Pan et al. 2025",
-  "description": "A cross-session motor imagery EEG dataset from 10 healthy participants performing cued left- versus right-hand motor imagery across two sessions. Recordings used 28 EEG channels sampled at 250 Hz, with about 180 trials per session. In session 2, test trials included online feedback. The dataset is a BIDS re-release produced with MOABB of the original Harvard Dataverse deposit.",
-  "methods_description": "EEG was recorded with a Neuroscan SynAmps2 amplifier at 250 Hz from 28 channels in a 10-10 montage, with online bandpass filtering of 0.01-200 Hz and a 50 Hz notch. Each trial was cue-based, with 4 s of rest followed by 4 s of left- or right-hand motor imagery. In session 2, the first 30 trials were used for training and the remaining trials for testing with online feedback.",
+  "description": "A cross-session motor imagery EEG dataset from 10 healthy participants who performed cued left- versus right-hand motor imagery across two sessions. Recordings used 28 EEG channels sampled at 250 Hz with a Neuroscan SynAmps2 amplifier, with roughly 180 trials per session. In session 2, test trials included online feedback. The data were re-released in BIDS format via MOABB for brain-computer interface research.",
+  "methods_description": "EEG was recorded with a Neuroscan SynAmps2 amplifier from 28 channels in a 10-10 montage at 250 Hz, with a 0.01-200 Hz online bandpass filter and a 50 Hz notch filter. Each trial was a cued left- or right-hand motor imagery task (4 s rest, 4 s task). In session 2, the first 30 trials were used for training and the remaining trials were test trials with online feedback.",
   "license": "CC0-1.0",
   "dataset_type": "derivative",
   "authors": {
@@ -22,7 +22,7 @@
       "term": "brain-computer interface"
     },
     {
-      "term": "cross-session"
+      "term": "cross-session decoding"
     },
     {
       "term": "Electroencephalography",
@@ -32,7 +32,7 @@
     {
       "term": "Imagination",
       "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D007092"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D007halbox"
     }
   ],
   "related_identifiers": [
