@@ -1,37 +1,41 @@
 {
-    "Name": "Pan2025: Cross-session motor imagery dataset from Pan et al. 2025",
-    "BIDSVersion": "1.9.0",
-    "HEDVersion": "8.4.0",
-    "DatasetType": "derivative",
-    "License": "CC0-1.0",
-    "Authors": [
-        "Lincong Pan"
-    ],
-    "ReferencesAndLinks": [
-        "https://doi.org/10.7910/DVN/GH74ZG"
-    ],
-    "Keywords": [
-        "Motor",
-        "Motor Imagery",
-        "imagery"
-    ],
-    "DatasetDOI": "doi:10.7910/DVN/GH74ZG",
-    "GeneratedBy": [
-        {
-            "CodeURL": "https://github.com/NeuroTechX/moabb",
-            "Name": "moabb",
-            "Description": "Mother of All BCI Benchmarks",
-            "Version": "1.8.0dev0"
-        }
-    ],
-    "SourceDatasets": [
-        {
-            "DOI": "10.7910/DVN/GH74ZG",
-            "URL": "https://doi.org/10.7910/DVN/GH74ZG"
-        }
-    ],
-    "PublicationYear": 2025,
-    "EthicsApprovals": [
-        "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
-    ]
+  "Name": "Pan2025: Cross-session motor imagery dataset from Pan et al. 2025",
+  "BIDSVersion": "1.9.0",
+  "HEDVersion": "8.4.0",
+  "DatasetType": "derivative",
+  "License": "CC0-1.0",
+  "Authors": [
+    "Lincong Pan"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.7910/DVN/GH74ZG"
+  ],
+  "Keywords": [
+    "Motor",
+    "Motor Imagery",
+    "imagery"
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000300",
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/NeuroTechX/moabb",
+      "Name": "moabb",
+      "Description": "Mother of All BCI Benchmarks",
+      "Version": "1.8.0dev0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "10.7910/DVN/GH74ZG",
+      "URL": "https://doi.org/10.7910/DVN/GH74ZG"
+    },
+    {
+      "DOI": "doi:10.7910/DVN/GH74ZG"
+    }
+  ],
+  "PublicationYear": 2025,
+  "EthicsApprovals": [
+    "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
+  ],
+  "Version": "1.0.0"
 }
