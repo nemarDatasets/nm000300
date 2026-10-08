@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Pan2025: Cross-session motor imagery dataset from Pan et al. 2025",
-  "description": "Cross-session motor imagery EEG dataset from 10 healthy participants performing cued left- versus right-hand motor imagery across two sessions. EEG was recorded from 28 channels at 250 Hz with a Neuroscan SynAmps2, and about 180 trials were collected per session. In the second session, test trials included online feedback. This BIDS re-release was generated with MOABB from the original Harvard Dataverse deposit.",
-  "methods_description": "Cued left- vs right-hand motor imagery (4 s rest, 4 s task), about 180 trials per session over two sessions. EEG was recorded with a Neuroscan SynAmps2 at 250 Hz from 28 channels in a 10-10 montage, with online bandpass 0.01-200 Hz and 50 Hz notch. In session 2, the first 30 trials were used for training and the remaining trials for testing with online feedback.",
+  "description": "A cross-session motor imagery EEG dataset from 10 healthy participants performing cued left- versus right-hand motor imagery across two sessions. Recordings used 28 EEG channels sampled at 250 Hz, with about 180 trials per session. In session 2, test trials included online feedback. The dataset is a BIDS re-release produced with MOABB of the original Harvard Dataverse deposit.",
+  "methods_description": "EEG was recorded with a Neuroscan SynAmps2 amplifier at 250 Hz from 28 channels in a 10-10 montage, with online bandpass filtering of 0.01-200 Hz and a 50 Hz notch. Each trial was cue-based, with 4 s of rest followed by 4 s of left- or right-hand motor imagery. In session 2, the first 30 trials were used for training and the remaining trials for testing with online feedback.",
   "license": "CC0-1.0",
   "dataset_type": "derivative",
   "authors": {
@@ -25,7 +25,14 @@
       "term": "cross-session"
     },
     {
-      "term": "left hand vs right hand"
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+    },
+    {
+      "term": "Imagination",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D007092"
     }
   ],
   "related_identifiers": [
@@ -47,7 +54,7 @@
     {
       "identifier": "10.1088/1741-2552/ad0a01",
       "identifier_type": "DOI",
-      "relation_type": "References"
+      "relation_type": "IsDescribedBy"
     },
     {
       "identifier": "10.21105/joss.01896",
@@ -66,14 +73,15 @@
     "eeg"
   ],
   "sizes": [
-    "268 MB (21 files)"
+    "1.01 GB (42 files)"
   ],
   "formats": [
     ".edf",
     ".json",
+    ".md",
     ".tsv",
     ".yaml",
     ".yml"
   ],
-  "source_hash": "db993f61ab98b97f860caea7f17b42a4933de513e340dabcfd8d16c68d14838a"
+  "source_hash": "51862d85c1e3fdcf107baaf2b5bc262c8261e89995ee9a0a89a210f8bc6d5094"
 }
